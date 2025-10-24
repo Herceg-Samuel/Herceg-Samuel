@@ -6,13 +6,9 @@ I’m a builder of quiet things.
 A computer science student by degree — but more of a writer, thinker, and feeler trying to merge tech with truth.
 
 - 🌍 Based in Kenya, shaped by code, community, and curiosity.
-- 🎯 Currently building **IDENTIFIED**, a digital library of my mind — part blog, part journal, part revolution.
+- 🎯 Currently building **web3** and **AI** projects.
 - 🧠 Learning: Frontend development with **React** & **Next.js**, a bit of **Python**, some **AI**, and lots of **why’s**.
 - ✍🏽 Writing about identity, purpose, mental health, and tech. Sometimes with poetry. Sometimes with code.
-- 🛠️ Working on projects like:
-  - `Scatter`: a way to help ADHD brains try to organize notes.
-  - `Flowstate`: a gamified way to help writers stay in the flow.
-  - A voice-powered idea engine that turns raw thoughts into clarity.
 
 I believe in making tools that don’t just work, but *mean* something.  
 More life. And impact for our humanity.
