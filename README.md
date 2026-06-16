@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a builder of quiet things.<br>A computer science student by degree — but more of a writer, thinker, and feeler trying to merge tech with truth.<br><br>🌍 Based in Kenya, shaped by code, community, and curiosity.<br>🎯 Currently building web3 and AI projects.<br>🧠 Learning: Frontend development with React & Next.js, a bit of Python, some AI, and lots of why’s.<br><br>If you're building something thoughtful, weird, or wildly human,let's talk.<br>This README isn’t the whole story. But it’s a start.
+I’m a builder of quiet things.<br>A computer science student by degree — but more of a writer, thinker, and feeler trying to merge tech with truth.<br><br>🌍 Based in Kenya, shaped by code, community, and curiosity.<br>🎯 Currently building for businesses and fun projects.<br>🧠 Learning: Frontend development with React & Next.js, a bit of Python, some AI, and lots of why’s.<br><br>If you're building something thoughtful, weird, or wildly human, let's talk.<br>This README isn’t the whole story. But it’s a start.
 
 
 ## 🌐 Socials:
